@@ -4,6 +4,14 @@
   "version": "0.1.1",
   "description": "Censors words out of text",
   "main": "censortext",
+  "respository":{
+    "type": "git",
+    "url": "http://github.com/cxhAsh/cxhAsh.github.io"
+  },
+  "keywords": [
+    "censor",
+    "words"
+  ]
   "dependencies": {},
   "engines": {
     "node": "*"
