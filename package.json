@@ -1,6 +1,6 @@
 {
   "author": "Ruby",
-  "name": "censorify",
+  "name": "censorify_cxh",
   "version": "0.1.1",
   "description": "Censors words out of text",
   "main": "censortext",
